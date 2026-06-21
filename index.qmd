@@ -1,0 +1,163 @@
+---
+title: "Héctor Tajahuerce Alcalá"
+---
+
+[<i class="bi bi-envelope"></i> hector.tajahuerce@gmail.com](mailto:hector.tajahuerce@gmail.com) | [<i class="bi bi-phone"></i> +34 640 61 14 60](tel:+34640611460) | <i class="bi bi-geo-alt"></i> Valencia, Spain
+
+## Currículum Vitae
+
+### Education
+
+**Double Degree: Sociology & Political Science / Public Administration** | 2023 – 2028 (expected)  
+*Universitat de València* | Valencia, Spain  
+Five-year double degree combining sociological theory and methods with political institutions, public policy, and comparative politics. Coursework encompasses qualitative and quantitative research methods, international relations theory, political analysis, and institutional governance.
+
+**Erasmus Exchange Programme** | Sep. 2026 – Jun. 2027  
+*Université Libre de Bruxelles (ULB)* | Brussels, Belgium  
+Year-long academic exchange at a leading European research university, with coursework focused on European politics, security studies, and international political affairs.
+
+**Baccalauréat – Bilingual French/Spanish Programme** | 2009 – 2023  
+*Lycée Français International de Valence* | Valencia, Spain  
+Bilingual secondary education under the French national curriculum. Awarded the French Baccalauréat with honours.
+
+### Professional Experience
+
+**Short-Term Mobility – Hybrid Warfare & Disinformation** | April 2026  
+*FORTHEM Alliance / University of Latvia* | Riga, Latvia  
+Intensive programme on hybrid information warfare, disinformation, cybersecurity, and strategic communication. Included institutional study visits to the Latvian Ministry of Defence and the Cabinet of Ministers, with exposure to Baltic security perspectives and NATO's eastern flank threat assessments.
+
+**Outreach Representative** | Summer 2024  
+*UNHCR – United Nations High Commissioner for Refugees* | Valencia, Spain  
+Public representation of UNHCR's humanitarian mandate through direct outreach campaigns. Developed communication skills in multicultural environments while raising awareness of the global refugee crisis and international protection frameworks.
+
+**Internship Observer – University Management** | 2024  
+*Universitat Jaume I* | Castellón, Spain  
+Observed and analysed the organisational structures and administrative processes of a Spanish public university, with a focus on institutional governance and faculty management.
+
+### Skills & Languages
+
+- **Languages:** Spanish (native), French (native), English (Professional Working Proficiency), Valencian (basic), Portuguese (learning)
+- **Research Methods:** Qualitative analysis (Atlas.ti), quantitative analysis (SPSS), policy research and drafting
+- **Technical:** Excel (advanced), SPSS (advanced), Python (basic), AI & LLMs
+- **Other:** Political analysis, briefing preparation, international affairs monitoring
+
+<br>
+
+## Investigaciones
+
+```{=html}
+<div class="d-flex flex-row flex-nowrap overflow-auto pb-3 gap-4" style="scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
+  <div class="card shadow-sm flex-shrink-0" style="width: 320px; border-radius: 8px;">
+    <div class="card-body d-flex flex-column p-4">
+      <h5 class="card-title mb-3" style="font-weight: 600; font-size: 1.1rem;">Valencian Citizens' National Identity in the Current Context (2024)</h5>
+      <p class="card-text text-muted mb-4" style="font-size: 0.95rem;">Peer-reviewed research paper analysing the determinants and contemporary evolution of national identity among Valencian citizens, drawing on survey data and political sociology frameworks.</p>
+      <div class="mt-auto">
+        <a href="https://www.researchgate.net/publication/392898718" target="_blank" class="btn btn-outline-primary btn-sm w-100">Ver publicación</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="card shadow-sm flex-shrink-0" style="width: 320px; border-radius: 8px;">
+    <div class="card-body d-flex flex-column p-4">
+      <h5 class="card-title mb-2" style="font-weight: 600; font-size: 1.1rem;">AI and defence policy in the United States</h5>
+      <span class="badge bg-secondary mb-3" style="width: fit-content; font-size: 0.8rem;">Current working paper</span>
+      <p class="card-text text-muted" style="font-size: 0.95rem;">Examining the integration of artificial intelligence in American defence planning and strategic decision-making.</p>
+    </div>
+  </div>
+</div>
+```
+
+<br>
+
+## Proyectos
+
+```{=html}
+<div class="d-flex flex-row flex-nowrap overflow-auto pb-3 gap-4" style="scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
+  <div class="card shadow-sm flex-shrink-0" style="width: 320px; border-radius: 8px;">
+    <div class="card-body d-flex flex-column p-4">
+      <h5 class="card-title mb-2" style="font-weight: 600; font-size: 1.1rem;">Visuales y Gráficos de Defensa en R</h5>
+      <span class="badge bg-primary mb-3" style="width: fit-content; font-size: 0.8rem;">En desarrollo</span>
+      <p class="card-text text-muted" style="font-size: 0.95rem;">Proyecto enfocado en la creación de gráficos interactivos y visualizaciones de datos relacionados con defensa, programado enteramente en R. Próximamente publicaré el código fuente y los resultados.</p>
+    </div>
+  </div>
+</div>
+```
+
+<br>
+
+## Artículos
+
+```{=html}
+<div class="d-flex flex-row flex-nowrap overflow-auto pb-3 gap-4" style="scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
+  <div class="card shadow-sm flex-shrink-0" style="width: 320px; border-radius: 8px;">
+    <div class="card-body d-flex flex-column p-4">
+      <h5 class="card-title mb-2" style="font-weight: 600; font-size: 1.1rem;">Primer Artículo (Próximamente)</h5>
+      <p class="card-text text-muted" style="font-size: 0.95rem;">Un espacio para compartir reflexiones y análisis. Aquí publicaré próximamente contenido sobre política, defensa y análisis de datos en R.</p>
+    </div>
+  </div>
+</div>
+```
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Dispose Quarto/Bootstrap's default scrollspy so it doesn't fight with our custom one
+  setTimeout(() => {
+    try {
+      if (typeof bootstrap !== 'undefined') {
+        const spy = bootstrap.ScrollSpy.getInstance(document.body);
+        if (spy) spy.dispose();
+      }
+    } catch(e) {}
+  }, 100);
+
+  const tocLinks = document.querySelectorAll('#TOC a');
+  const sections = Array.from(tocLinks).map(link => {
+    try { return document.querySelector(link.getAttribute('href')); } catch(e) { return null; }
+  }).filter(s => s !== null);
+
+  if (tocLinks.length > 0 && sections.length > 0) {
+    const updateActive = () => {
+      let currentSection = sections[0];
+      const offset = window.innerHeight / 3;
+      
+      // If at the very bottom, force highlight the last section
+      if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 10) {
+        currentSection = sections[sections.length - 1];
+      } else {
+        // Find the last section that has crossed the top third threshold
+        sections.forEach(section => {
+          const rect = section.getBoundingClientRect();
+          if (rect.top <= offset) {
+            currentSection = section;
+          }
+        });
+      }
+
+      if (currentSection) {
+        const id = currentSection.getAttribute('id');
+        tocLinks.forEach(l => {
+          if (l.getAttribute('href') === '#' + id) {
+            l.classList.add('active');
+          } else {
+            l.classList.remove('active');
+          }
+        });
+      }
+    };
+
+    window.addEventListener('scroll', updateActive, {passive: true});
+    
+    // Also update on click to ensure immediate feedback
+    tocLinks.forEach(link => {
+      link.addEventListener('click', function(e) {
+        setTimeout(updateActive, 50);
+      });
+    });
+
+    // Trigger once on load
+    setTimeout(updateActive, 150);
+  }
+});
+</script>
+```
