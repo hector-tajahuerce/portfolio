@@ -29,9 +29,7 @@ h2 {
   aspect-ratio: 4 / 5;
 }
 
-html {
-  scroll-padding-top: 80px;
-}
+
 
 #TOC ul.collapse {
   display: block !important;

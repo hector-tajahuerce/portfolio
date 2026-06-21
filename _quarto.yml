@@ -2,11 +2,7 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "Portfolio"
-  navbar:
-    background: white
-    position: fixed
+
 
 format:
   html:
