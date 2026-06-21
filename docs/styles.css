@@ -13,7 +13,13 @@ h2 {
 }
 
 #TOC {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
+}
+
+#toc-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
 }
 
 #TOC ul {
