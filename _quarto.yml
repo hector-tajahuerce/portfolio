@@ -10,5 +10,8 @@ format:
     css: styles.css
     toc: true
     toc-depth: 2
+    grid:
+      body-width: 1100px
+      margin-width: 0px
     toc-location: left
     toc-title: "Índice"
