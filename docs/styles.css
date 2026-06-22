@@ -42,6 +42,12 @@ a:hover {
 
 .card-title {
   color: white !important;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.card:hover .card-title {
+  opacity: 1;
 }
 
 #TOC {
