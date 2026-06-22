@@ -87,7 +87,7 @@ Observed and analysed the organisational structures and administrative processes
   <div class="card shadow-sm flex-shrink-0" style="width: 250px; border-radius: 2px; background-image: url('portada_articulo.png'); background-size: cover; background-position: top center; position: relative; overflow: hidden;">
     <div class="card-overlay"></div>
     <div class="card-body d-flex flex-column justify-content-end align-items-start text-start p-4" style="position: relative; z-index: 2;">
-      <a href="#" class="text-decoration-none text-light">
+      <a href="articulo_hegemony.html" class="text-decoration-none text-light">
         <h5 class="card-title mb-0" style="font-weight: 600; font-size: 1.1rem; text-shadow: 1px 1px 4px rgba(0,0,0,0.8);">The Attrition of Hegemony</h5>
       </a>
     </div>
