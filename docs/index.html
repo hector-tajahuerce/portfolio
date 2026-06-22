@@ -201,7 +201,15 @@ document.addEventListener("DOMContentLoaded", function() {
   if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
   }
+  
+  // Clear the URL hash if it exists to prevent browser from auto-scrolling to it
+  if (window.location.hash) {
+    history.replaceState(null, null, window.location.pathname + window.location.search);
+  }
+  
+  // Scroll to top immediately, and again after a short delay in case Quarto tries to override
   window.scrollTo(0, 0);
+  setTimeout(() => window.scrollTo(0, 0), 100);
 
   // Dispose Quarto/Bootstrap's default scrollspy so it doesn't fight with our custom one
   setTimeout(() => {
