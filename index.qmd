@@ -94,6 +94,12 @@ Observed and analysed the organisational structures and administrative processes
 ```{=html}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  // Force scroll to top on refresh
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+  window.scrollTo(0, 0);
+
   // Dispose Quarto/Bootstrap's default scrollspy so it doesn't fight with our custom one
   setTimeout(() => {
     try {
