@@ -11,7 +11,7 @@ format:
     css: styles.css
 ---
 
-![](portada_articulo.png){style="width: 100%; border-radius: 8px; margin-bottom: 2rem;"}
+![](portada_articulo_hero.jpg){style="width: 100%; border-radius: 8px; margin-bottom: 2rem;"}
 
 **Abstract.** This article examines the structural conditions under which a sustained military confrontation between the United States and Iran would likely favor Iranian strategic objectives. It advances three interconnected arguments: that the cost-exchange asymmetry inherent in contemporary missile defense imposes unsustainable attrition costs on technologically superior adversaries; that the destruction of Gulf Cooperation Council (GCC) desalination infrastructure would produce cascading geoeconomic shocks capable of disrupting petrodollar recycling into dollar-denominated financial markets; and that domestic political incentives within the United States create structural biases toward escalation that are decoupled from rational strategic calculation. The article was drafted on 8 March 2026, prior to the June 2026 conflict. A postscript assesses which predictions were borne out by subsequent events.
 
