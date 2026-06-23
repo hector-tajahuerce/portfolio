@@ -9,9 +9,6 @@ format:
     toc-title: "Índice"
     theme: cosmo
     css: styles.css
-    margin-footer: |
-      <hr style="border-color: rgba(255,255,255,0.2);">
-      <a href="index.html" class="text-light text-decoration-none d-inline-block mt-2" style="font-size: 1.1rem; transition: opacity 0.2s; opacity: 0.8;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.8'"><i class="bi bi-arrow-left"></i> Portfolio</a>
 ---
 
 ![](portada_articulo_hero.jpg){style="width: 100%; border-radius: 8px; margin-bottom: 2rem;"}
@@ -51,4 +48,19 @@ The third mechanism is institutional. A transition to large-scale ground operati
 The three arguments developed in this article — cost-exchange attrition, GCC infrastructure vulnerability, and the domestic political economy of escalation — do not individually constitute a decisive case. Each is contestable, and a complete analysis would need to model Iranian vulnerabilities with equal rigor, including the fragility of Iranian energy export infrastructure, the limits of proxy cohesion under sustained pressure, and the risk of escalation into qualitatively different strategic registers. The present article focuses on the American side because that is where the existing analysis has been most inadequate.
 
 Taken together, however, the three arguments point to a consistent conclusion: the structural conditions for American strategic attrition in a conflict with Iran were in place well before any outbreak of hostilities. Whether those conditions would in fact produce the outcome described depends on variables — political leadership, escalation thresholds, third-party intervention — that no structural analysis can fully anticipate. What structural analysis can do is identify which side the weight of the underlying dynamics favors, and on that question, the answer was reasonably clear as of 8 March 2026.
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const sidebar = document.querySelector('#quarto-sidebar');
+  if (sidebar) {
+    const btn = document.createElement('div');
+    btn.style.paddingLeft = '20px';
+    btn.style.paddingTop = '20px';
+    btn.innerHTML = `<a href="index.html" class="text-light text-decoration-none d-inline-block" style="font-size: 1.1rem; opacity: 0.8; transition: opacity 0.2s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.8'"><i class="bi bi-arrow-left"></i> Portfolio</a>`;
+    sidebar.appendChild(btn);
+  }
+});
+</script>
+```
 
