@@ -84,7 +84,7 @@ Observed and analysed the organisational structures and administrative processes
 
 ```{=html}
 <div class="d-flex flex-row flex-nowrap overflow-auto pb-3 gap-4" style="scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
-  <div class="card shadow-sm flex-shrink-0" style="width: 250px; border-radius: 2px; background-image: url('portada_articulo.png'); background-size: cover; background-position: top center; position: relative; overflow: hidden;">
+  <div class="card shadow-sm flex-shrink-0" style="width: 250px; border-radius: 2px; background-image: url('portada_articulo_nueva.jpg'); background-size: cover; background-position: top center; position: relative; overflow: hidden;">
     <div class="card-overlay"></div>
     <div class="card-body d-flex flex-column justify-content-end align-items-start text-start p-4" style="position: relative; z-index: 2;">
       <a href="articulo_hegemony.html" class="text-decoration-none text-light">
